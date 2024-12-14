@@ -1,5 +1,8 @@
 package ru.job4j.xmlbased;
-// на основе конструктора
+
+/*
+На основе конструктора
+ */
 public class Dog {
     private String name;
 

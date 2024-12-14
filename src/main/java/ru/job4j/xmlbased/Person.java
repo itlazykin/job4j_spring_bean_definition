@@ -1,7 +1,6 @@
 package ru.job4j.xmlbased;
 
 public class Person {
-
     private String name;
     private Dog dog;
     private Cat cat;

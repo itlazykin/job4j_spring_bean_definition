@@ -16,7 +16,6 @@ public class Config {
     private String canaryName;
     @Value("${cat.name:simpleCat}")
     private String catName;
-
     @Value("${dog.name:AlfaDog}")
     private String dogName;
 
